@@ -1,0 +1,5 @@
+eventlet
+flask
+flask-socketio
+numpy == 1.18.5
+tensorflow

@@ -6,7 +6,6 @@ import tensorflow as tf
 from tensorflow import Variable as TfVariable, TensorShape
 from tensorflow import constant as TfConstant
 from tensorflow import keras
-from tensorflow.python import Dimension
 from tensorflow.python.keras.callbacks import History, ModelCheckpoint
 from tensorflow.python.keras.losses import Loss
 from tensorflow.python.keras.optimizer_v2.optimizer_v2 import OptimizerV2
